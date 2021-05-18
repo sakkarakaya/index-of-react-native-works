@@ -18,7 +18,7 @@
           <tr>
                 <td>Klinify App</td>
                 <td><a href="https://github.com/sakkarakaya/RN-Klinify-App">Repo details..</a></td>
-                <td><img src="" alt="google-img"  style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/57039414/118707805-410e0e00-b81b-11eb-8278-25d7895bdbeb.png" alt="google-img"  style="height:500px"></td>
           </tr>
           <tr>
                 <td>Job Search App</td>
